@@ -1,1 +1,1 @@
-Removed.
+This project was removed.
